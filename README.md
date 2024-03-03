@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 Then, run the following command:
 ```bash
-streamlit run dashboard.py
+streamlit run dashboard/dashboard.py
 ```
