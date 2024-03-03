@@ -1,1 +1,1 @@
-https://bikesharinganalysis-twjy.streamlit.app/
+https://bikesharinganalysis-tn.streamlit.app/
